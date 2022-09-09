@@ -1,1 +1,1 @@
-printf(teste);
+printf(qualquer);
